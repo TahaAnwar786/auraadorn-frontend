@@ -1,4 +1,5 @@
 Project Name: AuraAdorn eCommerce Frontend
+
 Description
 This project is the frontend part of an eCommerce platform designed to provide a seamless shopping experience. It features a responsive design, user authentication, product listings, a shopping cart, and checkout functionality. Built with [Framework/Library Name, e.g., React, Vue, Angular], it aims to be fast, user-friendly, and easily integrable with backend services.
 
